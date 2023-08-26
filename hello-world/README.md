@@ -15,7 +15,3 @@
  zig build run
  zig build test
 ```
-
-## References
-
-- <https://ziglang.org/>
