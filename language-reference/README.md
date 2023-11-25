@@ -1,4 +1,4 @@
-# Zig 
+# README
 
 ## How to build and run code
 
