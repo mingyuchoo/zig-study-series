@@ -9,8 +9,8 @@
 ## How to create a project
 
 ```bash
- mkdir hello-world
- cd hello-world/
+ mkdir <project-name>
+ cd <project-name>
  zig init-exe
  zig build run
  zig build test
