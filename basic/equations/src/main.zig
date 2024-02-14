@@ -11,7 +11,7 @@ fn right(s: u32) u32 {
 }
 
 pub fn main() !void {
-    var i: u8 = 0;
+    var i: u32 = 0;
     while (i < 100) {
         if (left(i) == right(i)) {
             std.debug.print("I found the number s: {}\n", .{i});
