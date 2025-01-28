@@ -11,7 +11,7 @@
 ```bash
  mkdir <project-name>
  cd <project-name>
- zig init-exe           # or `zig init-lib` for library
+ zig init
  zig build run
  zig build test
  zig build install      # ./zig-out/bin/<project-name>
